@@ -1,2 +1,2 @@
 # AncestryTWAS2025
-This repository contans db GReX models and scripts generated and used for AncestryTWAS paper that is under revision at Nature Communications. 
+This repository contans scripts used AncestryTWAS paper that is under revision at Nature Communications. To access GReX models go here https://zenodo.org/records/17167883 .
